@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+*.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Data 
+data/*.csv
